@@ -17,9 +17,9 @@ font3 = ('Franklin Gothic Book', 17, 'italic', 'bold')
 font5 = ('Plantagenet Cherokee', 30, 'italic', 'bold')
 
 # Load and subsample the image
-image1 = PhotoImage(file='C:/Users/admin/OneDrive/Documents/Melissa/PLD/My Fruit Shop/Seller.png').subsample(1,1 )
-image2 = PhotoImage(file='C:/Users/admin/OneDrive/Documents/Melissa/PLD/My Fruit Shop/bubble.png').subsample(1,2 )
-image3 = PhotoImage(file='C:/Users/admin/OneDrive/Documents/Melissa/PLD/My Fruit Shop/bubble1.png').subsample(1,2 )
+image1 = PhotoImage(file='C:/Users/admin/OneDrive/Documents/Melissa/Assignment3/Seller.png').subsample(1,1 )
+image2 = PhotoImage(file='C:/Users/admin/OneDrive/Documents/Melissa/Assignment3/bubble.png').subsample(1,2 )
+image3 = PhotoImage(file='C:/Users/admin/OneDrive/Documents/Melissa/Assignment3/bubble1.png').subsample(1,2 )
 
 image1_label = Label(app, image=image1, fg="#FFA5B8", bg="#FFA5B8", compound="top", anchor="n", width=450, height=570)
 image1_label.place(x=10, y=70)
