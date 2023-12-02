@@ -15,9 +15,9 @@ font2 = ('Franklin Gothic Book', 15, 'bold', 'underline')
 font3 = ('Comic Sans MS', 25, 'italic', 'bold')
 
 # Image
-image1 = PhotoImage(file='C:/Users/admin/OneDrive/Documents/Melissa/My Fruit Shop/orangepic.png').subsample(3, 3)
-image2 = PhotoImage(file='C:/Users/admin/OneDrive/Documents/Melissa/My Fruit Shop/applepic.png').subsample(3, 3)
-image3 = PhotoImage(file='C:/Users/admin/OneDrive/Documents/Melissa/My Fruit Shop/Background.png').subsample(2, 1)
+image1 = PhotoImage(file='C:/Users/admin/OneDrive/Documents/Melissa/PLD/My Fruit Shop/orangepic.png').subsample(3, 3)
+image2 = PhotoImage(file='C:/Users/admin/OneDrive/Documents/Melissa/PLD/My Fruit Shop/applepic.png').subsample(3, 3)
+image3 = PhotoImage(file='C:/Users/admin/OneDrive/Documents/Melissa/PLD/My Fruit Shop/Background.png').subsample(2, 1)
 
 # Image labels
 
